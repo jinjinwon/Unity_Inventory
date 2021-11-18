@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b96d6ef3600d65a4a9a80ed02bda89fe, type: 3}
+  m_Name: Helmet_3
+  m_EditorClassIdentifier: 
+  _ID: 63
+  _Name: "\uC871\uC7A5\uC758 \uD5EC\uBA67"
+  _Tooltip: "\uC871\uC7A5\uC758 \uD5EC\uBA67"
+  _IconSprite: {fileID: 21300000, guid: 53f8cb0af20d9aa4892ea8508a959784, type: 3}
+  _DropItemPrefab: {fileID: 0}
+  _Price: 300
+  _ItemType: 2
+  _Grade: 3
+  _ItemIndex: 63
+  _Atk: 15
+  _AtkSp: 15
+  _Def: 15
+  _HP: 15
+  _Mp: 15
+  _Critical: 15
+  _CriticalDmg: 5
+  _WeaponType: 1

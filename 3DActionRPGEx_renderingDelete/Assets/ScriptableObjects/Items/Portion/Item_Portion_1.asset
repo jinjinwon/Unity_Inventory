@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7792b9a5215471346b508d0e77824dbf, type: 3}
+  m_Name: Item_Portion_1
+  m_EditorClassIdentifier: 
+  _ID: 1000
+  _Name: "HP \uD3EC\uC158"
+  _Tooltip: "HP 50 \uD68C\uBCF5"
+  _IconSprite: {fileID: 21300000, guid: 3b9eeb533db51d44e90b34e77901f77d, type: 3}
+  _DropItemPrefab: {fileID: 0}
+  _Price: 50
+  _ItemType: 1
+  _Grade: 1
+  _MaxCount: 99
+  _HpRegen: 50
+  _MpRegen: 0

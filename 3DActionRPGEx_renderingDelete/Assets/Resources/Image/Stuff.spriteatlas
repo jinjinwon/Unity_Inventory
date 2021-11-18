@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Stuff
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 9fced3b22e356394d9171ac141c4f2f1, type: 3}
+    - {fileID: 2800000, guid: b9bb0b4e51fa03c4ebc1063620b49ecc, type: 3}
+    - {fileID: 2800000, guid: 0c367afdad2999e4dac254e1fc5f0a4f, type: 3}
+    - {fileID: 2800000, guid: a37ce33cc63133b40b11a4fe65110e48, type: 3}
+    - {fileID: 2800000, guid: f309e029edb97364abe4798bc6a88518, type: 3}
+    - {fileID: 2800000, guid: 5666cc7aef8b4004982894dda728421d, type: 3}
+    - {fileID: 2800000, guid: fd3a1721629708748b7ecd991bc91db2, type: 3}
+    - {fileID: 2800000, guid: b6d211bd94da5484484ceff558a5885f, type: 3}
+    - {fileID: 2800000, guid: ba2c925bc943ec742b830bc471a57b64, type: 3}
+    totalSpriteSurfaceArea: 147456
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: fd3a1721629708748b7ecd991bc91db2, type: 3}
+  - {fileID: 21300000, guid: 9fced3b22e356394d9171ac141c4f2f1, type: 3}
+  - {fileID: 21300000, guid: f309e029edb97364abe4798bc6a88518, type: 3}
+  - {fileID: 21300000, guid: 5666cc7aef8b4004982894dda728421d, type: 3}
+  - {fileID: 21300000, guid: ba2c925bc943ec742b830bc471a57b64, type: 3}
+  - {fileID: 21300000, guid: a37ce33cc63133b40b11a4fe65110e48, type: 3}
+  - {fileID: 21300000, guid: b6d211bd94da5484484ceff558a5885f, type: 3}
+  - {fileID: 21300000, guid: 0c367afdad2999e4dac254e1fc5f0a4f, type: 3}
+  - {fileID: 21300000, guid: b9bb0b4e51fa03c4ebc1063620b49ecc, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Stuff_7
+  - Stuff_1
+  - Stuff_5
+  - Stuff_6
+  - Stuff_9
+  - Stuff_4
+  - Stuff_8
+  - Stuff_3
+  - Stuff_2
+  m_Tag: Stuff
+  m_IsVariant: 0

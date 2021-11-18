@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a505b45334d64d468a899d05b7b3909, type: 3}
+  m_Name: ActiveSkill_Sword_2
+  m_EditorClassIdentifier: 
+  _AnimID: 
+  _SkName: "\uAE30 \uD3ED\uBC1C"
+  _ManaCost: 20
+  _Damage: 100
+  _Range: 100
+  _Sprite: {fileID: 21300000, guid: 14a0f66a7be165c4ba476e3d7c40e390, type: 3}
+  _TargetNumbers: 10
+  _CharType: 0
+  _AcquisitionLevel: 7
+  _Effect: {fileID: 0}
+  _Explanation: "\uC8FC\uBCC0\uC5D0 \uC801\uC5D0\uAC8C \uD53C\uD574\uB97C \uC785\uD78C\uB2E4."
+  _SkillType: "\uC5D1\uD2F0\uBE0C"
+  _SkillLevel: 0
+  _SkillIndex: 1
+  _AttackDelay: 0.5
+  _AttackNum: 1
+  _SkCollider_Center_X: 0
+  _SkCollider_Center_Y: 1
+  _SkCollider_Center_Z: 0
+  _SkCollider_Size_X: 7
+  _SkCollider_Size_Y: 1
+  _SkCollider_Size_Z: 7
